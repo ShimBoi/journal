@@ -1,6 +1,6 @@
 title: "Jay Shim"
 description: "Notes on JAX, PyTorch, and RL post-training, kept alongside the polished writeups on my main blog."
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate

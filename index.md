@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Learning Log
+# Journal
 
-Raw, day-of notes on JAX/PyTorch fundamentals and RL post-training prep. Unpolished on purpose — the fleshed-out version of anything here eventually shows up on [my main blog](https://shimboi.hashnode.dev).
+Raw notes on JAX/PyTorch fundamentals and RL post-training prep. The fleshed-out version of anything here eventually shows up on [my main blog](https://shimboi.hashnode.dev).
 
 <ul>
 {% for post in site.posts %}

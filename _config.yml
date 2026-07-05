@@ -1,5 +1,5 @@
-title: "Jay Shim — Learning Log"
-description: "Raw daily notes on JAX, PyTorch, and RL post-training, kept alongside the polished writeups on my main blog."
+title: "Jay's Journal"
+description: "Notes on JAX, PyTorch, and RL post-training, kept alongside the polished writeups on my main blog."
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme

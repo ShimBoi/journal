@@ -7,3 +7,4 @@ plugins:
 paginate: 10
 markdown: kramdown
 show_downloads: false
+future: true
